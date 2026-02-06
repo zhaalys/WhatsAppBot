@@ -4,7 +4,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-Setatus sibuk? Lagi cuti? Atau sekadar malas balas chat? Biarkan **WaBot** yang bekerja! 🚀
+Setatus sibuk? Lagi cuti? Atau sekadar malas balas chat? Biarkan **WaBot** yang bekerja! 
 
 Bot sederhana berbasis `whatsapp-web.js` ini akan otomatis membalas pesan pribadi (Japri) saat kamu sedang tidak bisa memegang HP.
 
