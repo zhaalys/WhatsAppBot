@@ -15,7 +15,7 @@ Bot sederhana berbasis `whatsapp-web.js` ini akan otomatis membalas pesan pribad
 - ⚡ **Ringan**: Cukup jalankan via terminal.
 - 📝 **Mudah Kustomisasi**: Ganti pesan sesuka hati di `index.js`.
 
-## 🛠️ Cara Install & Pakai
+##  Cara Install & Pakai
 
 ### 1. Persiapan
 
